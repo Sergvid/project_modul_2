@@ -1,0 +1,9 @@
+# Файлы Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Конфигурационные и секретные файлы
+.env 
+data/
+.DS_Store
+Thumbs.db
